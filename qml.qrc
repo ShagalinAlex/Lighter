@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SettingsInterface.qml</file>
+        <file>RemoteDeviceInterface.qml</file>
+        <file>Images/icon_settings.png</file>
+        <file>CustomButton.qml</file>
+        <file>Images/icon_back.png</file>
+        <file>AvaInterface.qml</file>
+        <file>SettingsSerial.qml</file>
+        <file>GateInterface.qml</file>
+        <file>Images/humidity.png</file>
+        <file>Images/termometer.png</file>
+        <file>BackButton.qml</file>
+        <file>SettingsButton.qml</file>
+        <file>Images/64175506641.png</file>
+        <file>ONOFFInterface.qml</file>
+        <file>BME280Interface.qml</file>
+        <file>RGBInterface.qml</file>
+        <file>CompressorInterface.qml</file>
+        <file>Images/oil_pressure_error.png</file>
+        <file>Images/oilPressureOk.png</file>
+    </qresource>
+</RCC>
